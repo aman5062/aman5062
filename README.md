@@ -31,8 +31,17 @@ In my academic journey so far, I have completed various coursework in computer p
 <p align="left">
 <a href="https://www.linkedin.com/in/aman-kumar-keshri-819ab11ab/" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/ca/LinkedIn_logo_initials.png/800px-LinkedIn_logo_initials.png" alt="rohit-kumar-66522518a/" height="30" width="40" /></a>
 </p><br>
-### 📊 Stats
 <br>
+---
+
+## 🏆 My Badges
+
+[![@aman5062's Holopin board](https://holopin.me/aman50626)](https://holopin.io/@aman50626)
+
+---
+<br><br>
+### 📊 Stats
+<br><br>
 
 <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=aman5062&show_icons=true&locale=en&theme=gruvbox&layout=compact" alt="aman5062" />
 
