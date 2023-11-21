@@ -32,7 +32,7 @@ In my academic journey so far, I have completed various coursework in computer p
 <a href="https://www.linkedin.com/in/aman-kumar-keshri-819ab11ab/" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/ca/LinkedIn_logo_initials.png/800px-LinkedIn_logo_initials.png" alt="rohit-kumar-66522518a/" height="30" width="40" /></a>
 </p><br>
 ### 📊 Stats
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=aman5062&show_icons=true&locale=en&layout=compact" alt="aman5062" /></p>
+<br><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=aman5062&show_icons=true&locale=en&layout=compact" alt="aman5062" />
 <p>![Forrest's GitHub stats](https://github-readme-stats.vercel.app/api?username=aman5062&show_icons=true&theme=gruvbox)</p>
 
  ![GitHub Streak](https://streak-stats.demolab.com?user=aman5062&theme=gruvbox&border_radius=4.5)
