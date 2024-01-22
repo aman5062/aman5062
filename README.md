@@ -30,7 +30,7 @@ In my academic journey so far, I have completed various coursework in computer p
 <img align="left" alt="Bash" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg" />
 <img align="left" alt="Bash" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/android/android-original.svg" />
 
-
+<br><br>
 
 <br />
 <h3 align="left">Connect with me:</h3>
