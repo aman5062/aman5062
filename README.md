@@ -49,7 +49,7 @@ In my academic journey so far, I have completed various coursework in computer p
 <br><br>
 
 <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=aman5062&show_icons=true&locale=en&theme=gruvbox&layout=compact" alt="aman5062" />
+## My Stats :chart_with_upwards_trend:
 
-![Forrest's GitHub stats](https://github-readme-stats.vercel.app/api?username=aman5062&show_icons=true&theme=gruvbox)
-
- ![GitHub Streak](https://streak-stats.demolab.com?user=aman5062&theme=gruvbox&border_radius=4.5)
+![](https://github.com/aman5062/github-stats/blob/master/generated/overview.svg)
+![](https://github.com/aman5062/github-stats/blob/master/generated/languages.svg)
