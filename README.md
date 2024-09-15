@@ -4,7 +4,7 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=aman5062&label=Profile%20views&color=0e75b6&style=flat" alt="aman5062" /> </p>
 
 <p align="left"> <a href="https://github-profile-trophy.vercel.app/?username=aman5062"><img src="https://github-profile-trophy.vercel.app/?username=aman5062" alt="aman5062" /></a> </p>
-<table>
+<table border="none">
   <tr>
     <td align="left">
       <a href="https://leetcode-badge-showcase.vercel.app/api?username=aman5062&theme=dracula">
