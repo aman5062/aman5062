@@ -4,20 +4,7 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=aman5062&label=Profile%20views&color=0e75b6&style=flat" alt="aman5062" /> </p>
 
 <p align="left"> <a href="https://github-profile-trophy.vercel.app/?username=aman5062"><img src="https://github-profile-trophy.vercel.app/?username=aman5062" alt="aman5062" /></a> </p>
-<table border="0">
-  <tr>
-    <td align="left">
-      <a href="https://leetcode-badge-showcase.vercel.app/api?username=aman5062&theme=dracula">
-        <img src="https://leetcode-badge-showcase.vercel.app/api?username=aman5062&theme=dracula" alt="aman5062" />
-      </a>
-    </td>
-    <td align="left">
-      <a href="https://leetcode.card.workers.dev/aman5062?theme=dark&font=baloo&extension=null">
-        <img src="https://leetcode.card.workers.dev/aman5062?theme=dark&font=baloo&extension=null" alt="aman5062" />
-      </a>
-    </td>
-  </tr>
-</table>
+
 
 <p align="left"> <a href="https://twitter.com/aman_5062" target="blank"><img src="https://img.shields.io/twitter/follow/aman_5062?logo=twitter&style=for-the-badge" alt="aman_5062" /></a> </p>
 
@@ -54,6 +41,29 @@
 [![@aman5062's Holopin board](https://holopin.me/aman50626)](https://holopin.io/@aman50626)
 
 ---
+
+<table border="0">
+  <tr>
+    <td align="left">
+      <a href="https://leetcode-badge-showcase.vercel.app/api?username=aman5062&theme=dracula">
+        <img src="https://leetcode-badge-showcase.vercel.app/api?username=aman5062&theme=dracula" alt="aman5062" />
+      </a>
+    </td>
+    <td align="left">
+      <a href="https://leetcode.card.workers.dev/aman5062?theme=dark&font=baloo&extension=null">
+        <img src="https://leetcode.card.workers.dev/aman5062?theme=dark&font=baloo&extension=null" alt="aman5062" />
+      </a>
+    </td>
+  </tr>
+</table>
+# My Google Developer Badges
+
+[![Android Studio User](https://developers.google.com/static/profile/badges/activity/android/install-android-studio/badge.svg)](https://developers.google.com/profile/badges/activity/android/install-android-studio)
+[![Google Cloud Skills Boost](https://developers.google.com/static/profile/badges/skillsboost/earned-badge/badge.svg)](https://developers.google.com/profile/badges/skillsboost/earned-badge)
+[![Google Cloud Innovator](https://developers.google.com/static/profile/badges/community/innovators/cloud/2021_member/badge.svg)](https://developers.google.com/profile/badges/community/innovators/cloud/2021_member)
+[![Joined the Google Developer Program](https://developers.google.com/static/profile/badges/profile/created-profile/created_profile.svg)](https://developers.google.com/profile/badges/profile/created-profile)
+[![Completed 1+ Codelab](https://developers.google.com/static/profile/badges/codelabs/first-codelab/badge.svg)](https://developers.google.com/profile/badges/codelabs/first-codelab)
+
 <br><br>
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=aman5062&show_icons=true&locale=en&layout=compact" alt="aman5062" /></p>
