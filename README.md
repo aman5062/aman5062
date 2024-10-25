@@ -58,11 +58,21 @@
 </table>
 # My Google Developer Badges
 
-[![Android Studio User](https://developers.google.com/static/profile/badges/activity/android/install-android-studio/badge.svg)](https://developers.google.com/profile/badges/activity/android/install-android-studio)
-[![Google Cloud Skills Boost](https://developers.google.com/static/profile/badges/skillsboost/earned-badge/badge.svg)](https://developers.google.com/profile/badges/skillsboost/earned-badge)
-[![Google Cloud Innovator](https://developers.google.com/static/profile/badges/community/innovators/cloud/2021_member/badge.svg)](https://developers.google.com/profile/badges/community/innovators/cloud/2021_member)
-[![Joined the Google Developer Program](https://developers.google.com/static/profile/badges/profile/created-profile/created_profile.svg)](https://developers.google.com/profile/badges/profile/created-profile)
-[![Completed 1+ Codelab](https://developers.google.com/static/profile/badges/codelabs/first-codelab/badge.svg)](https://developers.google.com/profile/badges/codelabs/first-codelab)
+<a href="https://developers.google.com/profile/badges/activity/android/install-android-studio">
+    <img src="https://developers.google.com/static/profile/badges/activity/android/install-android-studio/badge.svg" alt="Android Studio User" height="50">
+</a>
+<a href="https://developers.google.com/profile/badges/skillsboost/earned-badge">
+    <img src="https://developers.google.com/static/profile/badges/skillsboost/earned-badge/badge.svg" alt="Google Cloud Skills Boost" height="50">
+</a>
+<a href="https://developers.google.com/profile/badges/community/innovators/cloud/2021_member">
+    <img src="https://developers.google.com/static/profile/badges/community/innovators/cloud/2021_member/badge.svg" alt="Google Cloud Innovator" height="50">
+</a>
+<a href="https://developers.google.com/profile/badges/profile/created-profile">
+    <img src="https://developers.google.com/static/profile/badges/profile/created-profile/created_profile.svg" alt="Joined the Google Developer Program" height="50">
+</a>
+<a href="https://developers.google.com/profile/badges/codelabs/first-codelab">
+    <img src="https://developers.google.com/static/profile/badges/codelabs/first-codelab/badge.svg" alt="Completed 1+ Codelab" height="50">
+</a>
 
 <br><br>
 
