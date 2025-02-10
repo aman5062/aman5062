@@ -44,11 +44,7 @@
         <img src="https://leetcode-badge-showcase.vercel.app/api?username=aman5062&theme=dracula" alt="aman5062" />
       </a>
     </td>
-    <td align="left">
-      <a href="https://leetcode.card.workers.dev/aman5062?theme=dark&font=baloo&extension=null">
-        <img src="https://leetcode.card.workers.dev/aman5062?theme=dark&font=baloo&extension=null" alt="aman5062" />
-      </a>
-    </td>
+    
   </tr>
 </table>
 <br>
